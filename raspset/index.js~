@@ -1,0 +1,10 @@
+
+
+
+
+export default (app) => {
+    console.log('Set Example');
+    const INPUT = 3;
+    
+    return app;
+}
